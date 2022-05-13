@@ -1,7 +1,4 @@
 #Ayşenur YETER
-#aysenuryeter@gmail.com
-
-#Python
 
 for number in range(1,100):
     if(number %3 == 0 and number %7 == 0 ):

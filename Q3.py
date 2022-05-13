@@ -1,10 +1,6 @@
 #Ayşenur YETER
-#aysenuryeter@gmail.com
-
-#Python
 
 from pathlib import Path
-
 
 source_path = Path("data.bin")
 destination_path = Path("newdata.bin")

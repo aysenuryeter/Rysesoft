@@ -1,7 +1,4 @@
 #Ayşenur YETER
-#aysenuryeter@gmail.com
-
-#Python
 
 import random
 
